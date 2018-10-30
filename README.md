@@ -14,6 +14,8 @@ The rules are the same as the classic game:
 
 The computer chooses first; just follow the prompts.
 
+
 The first to reach 3 wins- wins the match! Goodluck! 
 
 Built with Python 3 [Python 3](https://www.python.org/download/releases/3.0).
+
